@@ -1,0 +1,7 @@
+C:\Users\Public\Visual Studio Projects\Homework\Week4Homework\Week4Homework\Week4Homework\bin\Debug\Week4Homework.exe.config
+C:\Users\Public\Visual Studio Projects\Homework\Week4Homework\Week4Homework\Week4Homework\bin\Debug\Week4Homework.exe
+C:\Users\Public\Visual Studio Projects\Homework\Week4Homework\Week4Homework\Week4Homework\bin\Debug\Week4Homework.pdb
+C:\Users\Public\Visual Studio Projects\Homework\Week4Homework\Week4Homework\Week4Homework\obj\Debug\Week4Homework.csprojAssemblyReference.cache
+C:\Users\Public\Visual Studio Projects\Homework\Week4Homework\Week4Homework\Week4Homework\obj\Debug\Week4Homework.csproj.CoreCompileInputs.cache
+C:\Users\Public\Visual Studio Projects\Homework\Week4Homework\Week4Homework\Week4Homework\obj\Debug\Week4Homework.exe
+C:\Users\Public\Visual Studio Projects\Homework\Week4Homework\Week4Homework\Week4Homework\obj\Debug\Week4Homework.pdb
